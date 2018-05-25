@@ -1,0 +1,18 @@
+D:\Visual Studio 2013\visual programming 2\App4\stackPractice\stackPractice\bin\Debug\stackPractice.exe.config
+D:\Visual Studio 2013\visual programming 2\App4\stackPractice\stackPractice\bin\Debug\stackPractice.exe
+D:\Visual Studio 2013\visual programming 2\App4\stackPractice\stackPractice\bin\Debug\stackPractice.pdb
+D:\Visual Studio 2013\visual programming 2\App4\stackPractice\stackPractice\obj\Debug\stackPractice.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\visual programming 2\App4\stackPractice\stackPractice\obj\Debug\stackPractice.Form1.resources
+D:\Visual Studio 2013\visual programming 2\App4\stackPractice\stackPractice\obj\Debug\stackPractice.Properties.Resources.resources
+D:\Visual Studio 2013\visual programming 2\App4\stackPractice\stackPractice\obj\Debug\stackPractice.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\visual programming 2\App4\stackPractice\stackPractice\obj\Debug\stackPractice.exe
+D:\Visual Studio 2013\visual programming 2\App4\stackPractice\stackPractice\obj\Debug\stackPractice.pdb
+D:\Visual Studio 2013\visual programming 2\everything before assignment 2\App4\stackPractice\stackPractice\bin\Debug\stackPractice.exe.config
+D:\Visual Studio 2013\visual programming 2\everything before assignment 2\App4\stackPractice\stackPractice\obj\Debug\stackPractice.exe
+D:\Visual Studio 2013\visual programming 2\everything before assignment 2\App4\stackPractice\stackPractice\obj\Debug\stackPractice.pdb
+D:\Visual Studio 2013\visual programming 2\everything before assignment 2\App4\stackPractice\stackPractice\bin\Debug\stackPractice.exe
+D:\Visual Studio 2013\visual programming 2\everything before assignment 2\App4\stackPractice\stackPractice\bin\Debug\stackPractice.pdb
+D:\Visual Studio 2013\visual programming 2\everything before assignment 2\App4\stackPractice\stackPractice\obj\Debug\stackPractice.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\visual programming 2\everything before assignment 2\App4\stackPractice\stackPractice\obj\Debug\stackPractice.Form1.resources
+D:\Visual Studio 2013\visual programming 2\everything before assignment 2\App4\stackPractice\stackPractice\obj\Debug\stackPractice.Properties.Resources.resources
+D:\Visual Studio 2013\visual programming 2\everything before assignment 2\App4\stackPractice\stackPractice\obj\Debug\stackPractice.csproj.GenerateResource.Cache
