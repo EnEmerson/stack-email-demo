@@ -9,6 +9,7 @@
 ## Setting up the emails.
 
 ```C#
+
 namespace stackPractice
 {
     enum DayOfWeek
@@ -39,7 +40,7 @@ namespace stackPractice
 
 ## Viewing the emails.
 
-``C#
+```C#
 namespace stackPractice
 {
     public partial class Form1 : Form
