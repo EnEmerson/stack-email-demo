@@ -1,13 +1,45 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+# stack-email-demo
 
+---
+
+### Description: This is a demonstration of how an email management system might keep track of received emails using a Stack. Custom enumerator used to track day of the week.
+
+---
+
+## Setting up the emails.
+
+```C#
+namespace stackPractice
+{
+    enum DayOfWeek
+    {
+        Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
+    }
+    class EmailReceived
+    {
+        internal string from;
+        internal string content;
+        internal DayOfWeek dayReceived;
+
+        public EmailReceived()
+        {
+            //empty default constructor
+        }
+        public EmailReceived(string pName, string pContent, DayOfWeek pDayReceived)
+        {
+            from = pName;
+            content = pContent;
+            dayReceived = pDayReceived;
+        }
+    }
+}
+```
+
+---
+
+## Viewing the emails.
+
+``C#
 namespace stackPractice
 {
     public partial class Form1 : Form
@@ -51,3 +83,12 @@ namespace stackPractice
         }
     }
 }
+```
+
+In this case, the "emails" are simply text boxes that pop-up on the screen contianing the email's information:
+
+![email-box](https://github.com/EnEmerson/stack-email-demo/blob/master/resources/email-box.png)
+
+
+
+

@@ -16,3 +16,12 @@ D:\Visual Studio 2013\visual programming 2\everything before assignment 2\App4\s
 D:\Visual Studio 2013\visual programming 2\everything before assignment 2\App4\stackPractice\stackPractice\obj\Debug\stackPractice.Form1.resources
 D:\Visual Studio 2013\visual programming 2\everything before assignment 2\App4\stackPractice\stackPractice\obj\Debug\stackPractice.Properties.Resources.resources
 D:\Visual Studio 2013\visual programming 2\everything before assignment 2\App4\stackPractice\stackPractice\obj\Debug\stackPractice.csproj.GenerateResource.Cache
+C:\Users\En\Desktop\repos\Personal\stack-email-demo\stackPractice\bin\Debug\stackPractice.exe.config
+C:\Users\En\Desktop\repos\Personal\stack-email-demo\stackPractice\obj\Debug\stackPractice.exe
+C:\Users\En\Desktop\repos\Personal\stack-email-demo\stackPractice\obj\Debug\stackPractice.pdb
+C:\Users\En\Desktop\repos\Personal\stack-email-demo\stackPractice\bin\Debug\stackPractice.exe
+C:\Users\En\Desktop\repos\Personal\stack-email-demo\stackPractice\bin\Debug\stackPractice.pdb
+C:\Users\En\Desktop\repos\Personal\stack-email-demo\stackPractice\obj\Debug\stackPractice.csprojResolveAssemblyReference.cache
+C:\Users\En\Desktop\repos\Personal\stack-email-demo\stackPractice\obj\Debug\stackPractice.Form1.resources
+C:\Users\En\Desktop\repos\Personal\stack-email-demo\stackPractice\obj\Debug\stackPractice.Properties.Resources.resources
+C:\Users\En\Desktop\repos\Personal\stack-email-demo\stackPractice\obj\Debug\stackPractice.csproj.GenerateResource.Cache
